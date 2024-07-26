@@ -1,6 +1,6 @@
 ### Won-Seok Jang @maison.jang
 
-**Interests:** `Medical AI`, `Medical Image Processing`, `Computer Vision`, `GenAI`, 'VLM'  <br>
+**Interests:** `Medical AI`, `Medical Image Processing`, `Computer Vision`, `GenAI`, 'VLM', <br>
 
 ### 🏆 Competitions
 *  `ETRI` **[2022 DNA+드론 챌린지 지정공모2] 1등
